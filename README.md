@@ -1,2 +1,2 @@
 # wordle_wizard_app
-Streamlit web app deployment of the Wordle Wizard backend. See Wordle Wizard repo for more details and information of the algorithm and development process.
+Streamlit Cloud web app deployment of the Wordle Wizard backend. See [Wordle Wizard repo](https://github.com/kmaurinjones/wordle_wizard) for more details and information of the algorithm and development process.
